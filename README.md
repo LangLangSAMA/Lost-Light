@@ -1,5 +1,5 @@
 # Lost Light
-2d rogue-like dungeon crawler.
+2D Rogue-like Dungeon Crawler.
 
 ### Dependencies
 The game uses [entt library](https://github.com/skypjack/entt#packaging-tools) that helps manage ECS architechture.
