@@ -19,11 +19,16 @@ BOSS can keep summoning Zombies in the world, and cast a skill which creates a v
 
 # Game Control
 Movement: WASD
+
 Dash: Space
+
 Reflect: Left Mouse Button
+
 Reflect Direction: Cursor
-Save Game: [
-Load Game: ]
+
+Save Game Level: [ (Left Bracket)
+
+Load Game Level: ] (Right Bracket)
 
 # Dependencies
 The game uses [entt library](https://github.com/skypjack/entt#packaging-tools) that helps manage ECS architechture.
